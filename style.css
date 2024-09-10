@@ -1,0 +1,27 @@
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+img{
+    width : 20rem;
+    height : 10rem;
+    border: solid ;
+    margin: 2rem;
+    padding: 0.3rem; 
+    background-color: rgb(74, 136, 190);
+
+}
+div{
+    background-color: rgb(199, 156, 162);
+    width: 30rem;
+    height: 22rem;  
+    border-radius: 2rem;  
+    text-align: center;
+}
+li{
+    color : green;
+    font-weight: bold;
+}
+
+/* CSS grundlegendes Muster
+Selector{was damit zu machen ist}
+*/
